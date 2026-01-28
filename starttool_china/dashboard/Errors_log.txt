@@ -1,0 +1,24 @@
+[28-Jul-2024 07:14:47 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond in C:\xampp\www\starttool_china\dashboard\config.php:29
+Stack trace:
+#0 C:\xampp\www\starttool_china\dashboard\config.php(29): mysqli_connect('10.232.232.252', 'startconnect', Object(SensitiveParameterValue), 'starttool_china')
+#1 C:\xampp\www\starttool_china\dashboard\startfeed.php(4): include_once('C:\\xampp\\www\\st...')
+#2 {main}
+  thrown in C:\xampp\www\starttool_china\dashboard\config.php on line 29
+[28-Jul-2024 07:14:47 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond in C:\xampp\www\starttool_china\dashboard\config.php:29
+Stack trace:
+#0 C:\xampp\www\starttool_china\dashboard\config.php(29): mysqli_connect('10.232.232.252', 'startconnect', Object(SensitiveParameterValue), 'starttool_china')
+#1 C:\xampp\www\starttool_china\dashboard\startcount.php(4): include_once('C:\\xampp\\www\\st...')
+#2 {main}
+  thrown in C:\xampp\www\starttool_china\dashboard\config.php on line 29
+[28-Jul-2024 07:19:38 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond in C:\xampp\www\starttool_china\dashboard\config.php:29
+Stack trace:
+#0 C:\xampp\www\starttool_china\dashboard\config.php(29): mysqli_connect('10.232.232.252', 'startconnect', Object(SensitiveParameterValue), 'starttool_china')
+#1 C:\xampp\www\starttool_china\dashboard\startfeed.php(4): include_once('C:\\xampp\\www\\st...')
+#2 {main}
+  thrown in C:\xampp\www\starttool_china\dashboard\config.php on line 29
+[28-Jul-2024 07:19:38 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond in C:\xampp\www\starttool_china\dashboard\config.php:29
+Stack trace:
+#0 C:\xampp\www\starttool_china\dashboard\config.php(29): mysqli_connect('10.232.232.252', 'startconnect', Object(SensitiveParameterValue), 'starttool_china')
+#1 C:\xampp\www\starttool_china\dashboard\startcount.php(4): include_once('C:\\xampp\\www\\st...')
+#2 {main}
+  thrown in C:\xampp\www\starttool_china\dashboard\config.php on line 29

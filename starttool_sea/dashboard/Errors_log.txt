@@ -1,0 +1,26 @@
+[06-Feb-2023 07:03:54 Europe/Berlin] Unknown column 'userName' in 'where clause'
+[06-Feb-2023 07:04:16 Europe/Berlin] Unknown column 'userName' in 'where clause'
+[28-Jul-2024 07:19:36 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond in C:\xampp\www\starttool_sea\dashboard\config.php:29
+Stack trace:
+#0 C:\xampp\www\starttool_sea\dashboard\config.php(29): mysqli_connect('10.232.232.252', 'startconnect', Object(SensitiveParameterValue), 'starttool_sea')
+#1 C:\xampp\www\starttool_sea\dashboard\startfeed.php(4): include_once('C:\\xampp\\www\\st...')
+#2 {main}
+  thrown in C:\xampp\www\starttool_sea\dashboard\config.php on line 29
+[28-Jul-2024 07:19:36 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond in C:\xampp\www\starttool_sea\dashboard\config.php:29
+Stack trace:
+#0 C:\xampp\www\starttool_sea\dashboard\config.php(29): mysqli_connect('10.232.232.252', 'startconnect', Object(SensitiveParameterValue), 'starttool_sea')
+#1 C:\xampp\www\starttool_sea\dashboard\startcount.php(4): include_once('C:\\xampp\\www\\st...')
+#2 {main}
+  thrown in C:\xampp\www\starttool_sea\dashboard\config.php on line 29
+[29-Jul-2024 05:17:00 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond in C:\xampp\www\starttool_sea\dashboard\config.php:29
+Stack trace:
+#0 C:\xampp\www\starttool_sea\dashboard\config.php(29): mysqli_connect('10.232.232.252', 'startconnect', Object(SensitiveParameterValue), 'starttool_sea')
+#1 C:\xampp\www\starttool_sea\dashboard\startfeed.php(4): include_once('C:\\xampp\\www\\st...')
+#2 {main}
+  thrown in C:\xampp\www\starttool_sea\dashboard\config.php on line 29
+[29-Jul-2024 05:17:00 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond in C:\xampp\www\starttool_sea\dashboard\config.php:29
+Stack trace:
+#0 C:\xampp\www\starttool_sea\dashboard\config.php(29): mysqli_connect('10.232.232.252', 'startconnect', Object(SensitiveParameterValue), 'starttool_sea')
+#1 C:\xampp\www\starttool_sea\dashboard\startcount.php(4): include_once('C:\\xampp\\www\\st...')
+#2 {main}
+  thrown in C:\xampp\www\starttool_sea\dashboard\config.php on line 29

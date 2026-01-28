@@ -1,0 +1,225 @@
+ <?php
+header("Access-Control-Allow-Origin: *");
+header("Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Accept");
+ include_once("config.php");
+
+if($_SERVER['REQUEST_METHOD']=='POST'){
+
+
+
+
+$encrypted=$_POST['d1'];
+  
+$password = '8R@13#s34Af';
+$method = 'aes-256-cbc';
+
+// Must be exact 32 chars (256 bit)
+$password = substr(hash('sha256', $password, true), 0, 32);
+
+
+// IV must be exact 16 chars (128 bit)
+$iv = chr(0x0) . chr(0x0) . chr(0x0) . chr(0x0) . chr(0x0) . chr(0x0) . chr(0x0) . chr(0x0) . chr(0x0) . chr(0x0) . chr(0x0) . chr(0x0) . chr(0x0) . chr(0x0) . chr(0x0) . chr(0x0);
+
+// av3DYGLkwBsErphcyYp+imUW4QKs19hUnFyyYcXwURU=
+//$encrypted = base64_encode(openssl_encrypt($plaintext, $method, $password, OPENSSL_RAW_DATA, $iv));
+
+//decrypt
+$decrypted = openssl_decrypt(base64_decode($encrypted), $method, $password, OPENSSL_RAW_DATA, $iv);
+
+$arraydata = explode("," ,$decrypted);
+$arr=array();
+$i=0;
+foreach( $arraydata as $d){
+    $arr[$i]= explode(":",$d)[1];
+
+$i++;
+}
+$accentureId=$arr[0];
+$selectedStatement = $arr[1];
+$selectedSubStatement = $arr[2];
+$selectedLocation=$arr[6];
+echo"$selectedLocation";
+    $name = 'Support';
+    $from_email = "QuickITSupport@accenture.com";
+	$requester = $accentureId."@accenture.com";
+	$supportmailto = "shubhangi.karwatkar@accenture.com,niraj.tiwari@accenture.com";//"India.ITSupportdesk@accenture.com,HDC1.Tech.Shiftleads@accenture.com";//"v.kathir@accenture.com";
+	
+	$mobileno = '+918886861110';
+
+	if($selectedLocation == 'BDC-3'){
+		 $supportmailto = 'BDC3.Tech.ShiftLeads@accenture.com,BDC.Desktop.Team@accenture.com';
+		 $mobileno = '+919886121014';
+	}
+	elseif($selectedLocation == 'BDC-4'){
+	     $supportmailto='BDC4.Tech.ShiftLeads@accenture.com,BDC.Desktop.Team@accenture.com';
+			 $mobileno = '+919886121014';
+	}
+    elseif($selectedLocation == 'BDC-6'){
+		     $supportmailto='BDC6.Tech.ShiftLeads@accenture.com,BDC.Desktop.Team@accenture.com';
+			 $mobileno = '+919886121014';
+	}
+	elseif($selectedLocation == 'BDC-7'){
+		      $supportmailto='BDC7.Tech.ShiftLeads@accenture.com,BDC.Desktop.Team@accenture.com';
+			 $mobileno = '+919886121014';
+	}
+	elseif($selectedLocation == 'BDC-8'){
+		     $supportmailto= 'BDC8.Tech.ShiftLeads@accenture.com,BDC.Desktop.Team@accenture.com';
+			 $mobileno = '+919886121014';
+	}
+	elseif($selectedLocation == 'BDC-9'){
+		     $supportmailto= 'BDC9.Tech.ShiftLeads@accenture.com,BDC.Desktop.Team@accenture.com';
+			 $mobileno = '+919886121014';
+	}
+	elseif($selectedLocation == 'BDC-10'){
+		      $supportmailto='BDC10.Tech.ShiftLeads@accenture.com,BDC.Desktop.Team@accenture.com';
+			 $mobileno = '+919886121014';
+	}
+	elseif($selectedLocation == 'BDC-11'){
+		     $supportmailto= 'BDC11.Tech.ShiftLeads@accenture.com,BDC.Desktop.Team@accenture.com';
+			 $mobileno = '+919886121014';
+	}
+    elseif($selectedLocation == 'BDC-13'){
+		     $supportmailto= 'BDC13.Tech.ShiftLeads@accenture.com,BDC.Desktop.Team@accenture.com';
+			 $mobileno = '+919886121014';
+	}
+	
+
+	elseif($selectedLocation == 'CDC-2'){
+		   $supportmailto= 'CHN2.Tech.ShiftLeads@accenture.com,CHN2.Desktop.Team@accenture.com';
+			 $mobileno = '+919884616680';
+	}
+	elseif($selectedLocation == 'CDC-3'){
+		   $supportmailto= 'CHN3.Tech.ShiftLeads@accenture.com,CHN3.Desktop.Team@accenture.com';
+			 $mobileno = '+919884616680';
+	}
+	
+	elseif($selectedLocation == 'DDC'){
+		   $supportmailto= 'DDC.desktop.team@accenture.com, DDC.Tech.ShiftLeads@accenture.com';
+			 $mobileno = '+919910708038';
+	}
+	elseif($selectedLocation == 'DDC-1'){
+		   $supportmailto= 'DDC.desktop.team@accenture.com, DDC1.Tech.ShiftLeads@accenture.com';
+			 $mobileno = '+919910708038';
+	}
+	elseif($selectedLocation == 'DDC-3'){
+		   $supportmailto= 'DDC.desktop.team@accenture.com, DDC3.Tech.ShiftLeads@accenture.com';
+			 $mobileno = '+919910708038';
+	}
+		
+	elseif($selectedLocation == 'HDC-2'){
+		   $supportmailto= 'HDC2.Tech.ShiftLeads@accenture.com, Hdc.Desktop.Team@accenture.com';
+			 $mobileno = '+918886861110';
+	}
+	elseif($selectedLocation == 'HDC-3'){
+		    $supportmailto='HDC3.Tech.ShiftLeads@accenture.com, Hdc.Desktop.Team@accenture.com';
+			 $mobileno = '+918886861110';
+	}
+	elseif($selectedLocation == 'HDC-4'){
+		   $supportmailto= 'HDC4.Tech.ShiftLeads@accenture.com, Hdc.Desktop.Team@accenture.com';
+			 $mobileno = '+918886861110';
+	}
+	elseif($selectedLocation == 'HDC-5'){
+		   $supportmailto= 'HDC5.Tech.ShiftLeads@accenture.com, Hdc.Desktop.Team@accenture.com';
+			 $mobileno = '+918886861110';
+	}
+	elseif($selectedLocation == 'KDC'){
+		   $supportmailto= 'India.ITSupportdesk@accenture.com, KDC.Desktop.Team@accenture.com';
+			 $mobileno = '+919874567567';
+	}
+	elseif($selectedLocation == 'MDC-2'){
+		   $supportmailto= 'Mumbai.Desktop.Team@accenture.com, MDC2.Tech.ShiftLeads@accenture.com';
+			 $mobileno = '+919820893956';
+	}
+	elseif($selectedLocation == 'MDC-5'){
+		   $supportmailto= 'Mumbai.Desktop.Team@accenture.com, MDC5.Tech.ShiftLeads@accenture.com';
+			 $mobileno = '+919820893956';
+	}
+	elseif($selectedLocation == 'MDC-7'){
+		   $supportmailto= 'MDC7.Tech.ShiftLeads@accenture.com,Mumbai.Desktop.Team@accenture.com';
+			 $mobileno = '+919820893956';
+	}
+	elseif($selectedLocation == 'PDC'){
+		   $supportmailto='PDC.Tech.ShiftLeads@accenture.com,Pune.Desktop.Team@accenture.com';
+			 $mobileno = '+919823009713';
+	}
+	
+$supportmailto = "shubhangi.karwatkar@accenture.com,niraj.tiwari@accenture.com";
+//print_r($arr);
+
+if(strlen($arr[4])>100 and preg_match('/[\'^£$%&*()}{@#~?><>,|=_+¬-]/', $string))
+{
+echo "please insert proper comment";
+}
+elseif(strlen($arr[5])==0 || strlen($arr[2])==0 || strlen($arr[3])==0 ||strlen($arr[1])==0 || strlen($arr[0])==0)
+{
+echo "please insert proper data";
+}
+else
+{
+$Sql_Query = "INSERT INTO feedback (userName ,location,category,subCategory,ratting,comments,resolved,date) values('".$arr[0]."','".$arr[6]."','".$arr[1]."','".$arr[2]."','".$arr[3]."','".$arr[4]."','".$arr[5]."',".now().")";
+       echo "$Sql_Query" ;
+    
+
+ try {
+             $result = mysqli_query($link,$Sql_Query);
+             if (!$result) {
+                 throw new Exception(mysqli_error($link));
+             }
+             else {
+                echo"record inserted";
+             }
+         } catch (Exception $e) {
+             error_log($e->getMessage());
+         }
+}
+         mysqli_close($link);	
+         
+if($arr[5]=='yesno'){         
+$subject = 'START- New Incident creation';
+    $headers = 'MIME-Version: 1.0' . "\r\n";
+    $headers .= 'Content-type: text/html; charset=iso-8859-1' . "\r\n";
+    $headers .= 'From: <' . $from_email  . '>' . "\r\n";
+
+	//Other
+	$headers2 = 'MIME-Version: 1.0' . "\r\n";
+    $headers2 .= 'Content-type: text/html; charset=iso-8859-1' . "\r\n";
+    $headers2 .= 'From: <' . $from_email . '>' . "\r\n";
+    $headers2 .= 'Cc: <' . $requester . '>' . "\r\n";
+    $email_message =
+
+        '<table cellspacing="0" cellpadding="15px" border="0" style="background-color:#fff; color:#333; font-size:11px; font-family:Verdana, Geneva, sans-serif">
+            <tr><th colspan="2" style="text-align:left;">Hello,</th></tr>
+            <tr><th colspan="2" style="text-align:left;">Accenture employee issue reported with below details. Please log an incident and assign to respective location team for tracking.</th></tr>
+			<tr><td colspan="2"> &nbsp;</td></tr>
+			
+            <tr><td>Location / Facility: </td><td>' . $selectedLocation . '</td></tr>
+			<tr><td>Accenture Employee E-Mail ID: </td><td>' . $requester . '</td></tr>
+            <tr><td>Problem Selected: </td><td>' . $selectedStatement . '</td></tr>
+			<tr><td>Sub Problem Selected: </td><td>' . $selectedSubStatement . '</td></tr>
+			<tr><td colspan="2"> &nbsp;</td></tr>
+			<tr><td colspan="2" style="text-align:left; font-size:9px;">Note: This is an automated email triggered from START Tool for windows.</td></tr>
+            </table>';
+
+    if (mail($supportmailto, $subject, $email_message, $headers2)){
+			$data['success'] = true;
+	        $data['message'] = $mobileno.',Email Sent Successfully!! to '.$supportmailto;
+			echo json_encode($data);
+
+		}
+
+    else
+    {
+    	$data['success'] = false;
+	    #$data['message'] = $mobileno.',Error Occured While Sending Mail!!';
+		echo json_encode($data);
+
+    }
+
+
+}
+ }
+ ?>
+ 
+ 
+ 
+ 

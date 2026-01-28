@@ -1,0 +1,176 @@
+[06-Feb-2023 06:10:29 Europe/Berlin] PHP Warning:  Undefined variable $sql_Query in C:\xampp\www\starttool\dashbord\starthit_Lastmonth.php on line 29
+[06-Feb-2023 06:30:28 Europe/Berlin] Unknown column 'userName' in 'where clause'
+[06-Feb-2023 06:30:39 Europe/Berlin] Unknown column 'userName' in 'where clause'
+[06-Feb-2023 06:30:45 Europe/Berlin] Unknown column 'userName' in 'where clause'
+[06-Feb-2023 06:31:43 Europe/Berlin] Unknown column 'userName' in 'where clause'
+[06-Feb-2023 06:39:48 Europe/Berlin] Unknown column 'userName' in 'where clause'
+[06-Feb-2023 07:04:36 Europe/Berlin] Unknown column 'userName' in 'where clause'
+[06-Feb-2023 07:04:45 Europe/Berlin] Unknown column 'userName' in 'where clause'
+[06-Feb-2023 07:05:42 Europe/Berlin] Unknown column 'userName' in 'where clause'
+[06-Feb-2023 07:05:58 Europe/Berlin] Unknown column 'userName' in 'where clause'
+[29-Apr-2024 13:11:47 Europe/Berlin] Unknown column 'resloved' in 'field list'
+[29-Apr-2024 13:11:47 Europe/Berlin] PHP Warning:  Undefined variable $posts in C:\xampp\www\starttool\dashbord\Feedbacks.php on line 44
+[29-Apr-2024 13:15:19 Europe/Berlin] Unknown column 'resloved' in 'field list'
+[29-Apr-2024 13:15:19 Europe/Berlin] PHP Warning:  Undefined variable $posts in C:\xampp\www\starttool\dashbord\Feedbacks.php on line 44
+[29-Apr-2024 13:22:00 Europe/Berlin] Unknown column 'resloved' in 'field list'
+[29-Apr-2024 13:22:00 Europe/Berlin] PHP Warning:  Undefined variable $posts in C:\xampp\www\starttool\dashbord\Feedbacks.php on line 44
+[28-Jul-2024 07:14:37 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond in C:\xampp\www\starttool\dashbord\config.php:29
+Stack trace:
+#0 C:\xampp\www\starttool\dashbord\config.php(29): mysqli_connect('10.232.232.252', 'startconnect', Object(SensitiveParameterValue), 'startdb')
+#1 C:\xampp\www\starttool\dashbord\startfeed.php(4): include_once('C:\\xampp\\www\\st...')
+#2 {main}
+  thrown in C:\xampp\www\starttool\dashbord\config.php on line 29
+[28-Jul-2024 07:14:37 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond in C:\xampp\www\starttool\dashbord\config.php:29
+Stack trace:
+#0 C:\xampp\www\starttool\dashbord\config.php(29): mysqli_connect('10.232.232.252', 'startconnect', Object(SensitiveParameterValue), 'startdb')
+#1 C:\xampp\www\starttool\dashbord\startcount.php(4): include_once('C:\\xampp\\www\\st...')
+#2 {main}
+  thrown in C:\xampp\www\starttool\dashbord\config.php on line 29
+[28-Jul-2024 07:14:40 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond in C:\xampp\www\starttool\dashbord\config.php:29
+Stack trace:
+#0 C:\xampp\www\starttool\dashbord\config.php(29): mysqli_connect('10.232.232.252', 'startconnect', Object(SensitiveParameterValue), 'startdb')
+#1 C:\xampp\www\starttool\dashbord\startcount.php(4): include_once('C:\\xampp\\www\\st...')
+#2 {main}
+  thrown in C:\xampp\www\starttool\dashbord\config.php on line 29
+[28-Jul-2024 07:14:41 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond in C:\xampp\www\starttool\dashbord\config.php:29
+Stack trace:
+#0 C:\xampp\www\starttool\dashbord\config.php(29): mysqli_connect('10.232.232.252', 'startconnect', Object(SensitiveParameterValue), 'startdb')
+#1 C:\xampp\www\starttool\dashbord\startfeed.php(4): include_once('C:\\xampp\\www\\st...')
+#2 {main}
+  thrown in C:\xampp\www\starttool\dashbord\config.php on line 29
+[28-Jul-2024 07:19:35 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond in C:\xampp\www\starttool\dashbord\config.php:29
+Stack trace:
+#0 C:\xampp\www\starttool\dashbord\config.php(29): mysqli_connect('10.232.232.252', 'startconnect', Object(SensitiveParameterValue), 'startdb')
+#1 C:\xampp\www\starttool\dashbord\startfeed.php(4): include_once('C:\\xampp\\www\\st...')
+#2 {main}
+  thrown in C:\xampp\www\starttool\dashbord\config.php on line 29
+[28-Jul-2024 07:19:35 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond in C:\xampp\www\starttool\dashbord\config.php:29
+Stack trace:
+#0 C:\xampp\www\starttool\dashbord\config.php(29): mysqli_connect('10.232.232.252', 'startconnect', Object(SensitiveParameterValue), 'startdb')
+#1 C:\xampp\www\starttool\dashbord\startcount.php(4): include_once('C:\\xampp\\www\\st...')
+#2 {main}
+  thrown in C:\xampp\www\starttool\dashbord\config.php on line 29
+[29-Jul-2024 05:07:30 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond in C:\xampp\www\starttool\dashbord\config.php:29
+Stack trace:
+#0 C:\xampp\www\starttool\dashbord\config.php(29): mysqli_connect('10.232.232.252', 'startconnect', Object(SensitiveParameterValue), 'startdb')
+#1 C:\xampp\www\starttool\dashbord\startcount.php(4): include_once('C:\\xampp\\www\\st...')
+#2 {main}
+  thrown in C:\xampp\www\starttool\dashbord\config.php on line 29
+[29-Jul-2024 05:07:31 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond in C:\xampp\www\starttool\dashbord\config.php:29
+Stack trace:
+#0 C:\xampp\www\starttool\dashbord\config.php(29): mysqli_connect('10.232.232.252', 'startconnect', Object(SensitiveParameterValue), 'startdb')
+#1 C:\xampp\www\starttool\dashbord\startfeed.php(4): include_once('C:\\xampp\\www\\st...')
+#2 {main}
+  thrown in C:\xampp\www\starttool\dashbord\config.php on line 29
+[29-Jul-2024 05:07:33 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond in C:\xampp\www\starttool\dashbord\config.php:29
+Stack trace:
+#0 C:\xampp\www\starttool\dashbord\config.php(29): mysqli_connect('10.232.232.252', 'startconnect', Object(SensitiveParameterValue), 'startdb')
+#1 C:\xampp\www\starttool\dashbord\startfeed.php(4): include_once('C:\\xampp\\www\\st...')
+#2 {main}
+  thrown in C:\xampp\www\starttool\dashbord\config.php on line 29
+[29-Jul-2024 05:07:33 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond in C:\xampp\www\starttool\dashbord\config.php:29
+Stack trace:
+#0 C:\xampp\www\starttool\dashbord\config.php(29): mysqli_connect('10.232.232.252', 'startconnect', Object(SensitiveParameterValue), 'startdb')
+#1 C:\xampp\www\starttool\dashbord\startcount.php(4): include_once('C:\\xampp\\www\\st...')
+#2 {main}
+  thrown in C:\xampp\www\starttool\dashbord\config.php on line 29
+[29-Jul-2024 05:07:35 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond in C:\xampp\www\starttool\dashbord\config.php:29
+Stack trace:
+#0 C:\xampp\www\starttool\dashbord\config.php(29): mysqli_connect('10.232.232.252', 'startconnect', Object(SensitiveParameterValue), 'startdb')
+#1 C:\xampp\www\starttool\dashbord\startcount.php(4): include_once('C:\\xampp\\www\\st...')
+#2 {main}
+  thrown in C:\xampp\www\starttool\dashbord\config.php on line 29
+[29-Jul-2024 05:07:35 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond in C:\xampp\www\starttool\dashbord\config.php:29
+Stack trace:
+#0 C:\xampp\www\starttool\dashbord\config.php(29): mysqli_connect('10.232.232.252', 'startconnect', Object(SensitiveParameterValue), 'startdb')
+#1 C:\xampp\www\starttool\dashbord\startfeed.php(4): include_once('C:\\xampp\\www\\st...')
+#2 {main}
+  thrown in C:\xampp\www\starttool\dashbord\config.php on line 29
+[29-Jul-2024 05:07:40 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond in C:\xampp\www\starttool\dashbord\config.php:29
+Stack trace:
+#0 C:\xampp\www\starttool\dashbord\config.php(29): mysqli_connect('10.232.232.252', 'startconnect', Object(SensitiveParameterValue), 'startdb')
+#1 C:\xampp\www\starttool\dashbord\startfeed.php(4): include_once('C:\\xampp\\www\\st...')
+#2 {main}
+  thrown in C:\xampp\www\starttool\dashbord\config.php on line 29
+[29-Jul-2024 05:07:40 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond in C:\xampp\www\starttool\dashbord\config.php:29
+Stack trace:
+#0 C:\xampp\www\starttool\dashbord\config.php(29): mysqli_connect('10.232.232.252', 'startconnect', Object(SensitiveParameterValue), 'startdb')
+#1 C:\xampp\www\starttool\dashbord\startcount.php(4): include_once('C:\\xampp\\www\\st...')
+#2 {main}
+  thrown in C:\xampp\www\starttool\dashbord\config.php on line 29
+[29-Jul-2024 05:11:11 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond in C:\xampp\www\starttool\dashbord\config.php:29
+Stack trace:
+#0 C:\xampp\www\starttool\dashbord\config.php(29): mysqli_connect('10.232.232.252', 'startconnect', Object(SensitiveParameterValue), 'startdb')
+#1 C:\xampp\www\starttool\dashbord\startcount.php(4): include_once('C:\\xampp\\www\\st...')
+#2 {main}
+  thrown in C:\xampp\www\starttool\dashbord\config.php on line 29
+[29-Jul-2024 05:11:11 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond in C:\xampp\www\starttool\dashbord\config.php:29
+Stack trace:
+#0 C:\xampp\www\starttool\dashbord\config.php(29): mysqli_connect('10.232.232.252', 'startconnect', Object(SensitiveParameterValue), 'startdb')
+#1 C:\xampp\www\starttool\dashbord\startfeed.php(4): include_once('C:\\xampp\\www\\st...')
+#2 {main}
+  thrown in C:\xampp\www\starttool\dashbord\config.php on line 29
+[29-Jul-2024 05:11:33 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond in C:\xampp\www\starttool\dashbord\config.php:29
+Stack trace:
+#0 C:\xampp\www\starttool\dashbord\config.php(29): mysqli_connect('10.232.232.252', 'startconnect', Object(SensitiveParameterValue), 'startdb')
+#1 C:\xampp\www\starttool\dashbord\startfeed.php(4): include_once('C:\\xampp\\www\\st...')
+#2 {main}
+  thrown in C:\xampp\www\starttool\dashbord\config.php on line 29
+[29-Jul-2024 05:12:37 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond in C:\xampp\www\starttool\dashbord\config.php:29
+Stack trace:
+#0 C:\xampp\www\starttool\dashbord\config.php(29): mysqli_connect('10.232.232.252', 'startconnect', Object(SensitiveParameterValue), 'startdb')
+#1 C:\xampp\www\starttool\dashbord\startcount.php(4): include_once('C:\\xampp\\www\\st...')
+#2 {main}
+  thrown in C:\xampp\www\starttool\dashbord\config.php on line 29
+[29-Jul-2024 05:12:37 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond in C:\xampp\www\starttool\dashbord\config.php:29
+Stack trace:
+#0 C:\xampp\www\starttool\dashbord\config.php(29): mysqli_connect('10.232.232.252', 'startconnect', Object(SensitiveParameterValue), 'startdb')
+#1 C:\xampp\www\starttool\dashbord\startfeed.php(4): include_once('C:\\xampp\\www\\st...')
+#2 {main}
+  thrown in C:\xampp\www\starttool\dashbord\config.php on line 29
+[29-Jul-2024 05:13:59 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond in C:\xampp\www\starttool\dashbord\config.php:29
+Stack trace:
+#0 C:\xampp\www\starttool\dashbord\config.php(29): mysqli_connect('10.232.232.252', 'startconnect', Object(SensitiveParameterValue), 'startdb')
+#1 C:\xampp\www\starttool\dashbord\startfeed.php(4): include_once('C:\\xampp\\www\\st...')
+#2 {main}
+  thrown in C:\xampp\www\starttool\dashbord\config.php on line 29
+[29-Jul-2024 05:13:59 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond in C:\xampp\www\starttool\dashbord\config.php:29
+Stack trace:
+#0 C:\xampp\www\starttool\dashbord\config.php(29): mysqli_connect('10.232.232.252', 'startconnect', Object(SensitiveParameterValue), 'startdb')
+#1 C:\xampp\www\starttool\dashbord\startcount.php(4): include_once('C:\\xampp\\www\\st...')
+#2 {main}
+  thrown in C:\xampp\www\starttool\dashbord\config.php on line 29
+[29-Jul-2024 05:16:41 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond in C:\xampp\www\starttool\dashbord\config.php:29
+Stack trace:
+#0 C:\xampp\www\starttool\dashbord\config.php(29): mysqli_connect('10.232.232.252', 'startconnect', Object(SensitiveParameterValue), 'startdb')
+#1 C:\xampp\www\starttool\dashbord\startfeed.php(4): include_once('C:\\xampp\\www\\st...')
+#2 {main}
+  thrown in C:\xampp\www\starttool\dashbord\config.php on line 29
+[29-Jul-2024 05:16:41 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond in C:\xampp\www\starttool\dashbord\config.php:29
+Stack trace:
+#0 C:\xampp\www\starttool\dashbord\config.php(29): mysqli_connect('10.232.232.252', 'startconnect', Object(SensitiveParameterValue), 'startdb')
+#1 C:\xampp\www\starttool\dashbord\startcount.php(4): include_once('C:\\xampp\\www\\st...')
+#2 {main}
+  thrown in C:\xampp\www\starttool\dashbord\config.php on line 29
+[29-Jul-2024 05:21:24 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond in C:\xampp\www\starttool\dashbord\config.php:29
+Stack trace:
+#0 C:\xampp\www\starttool\dashbord\config.php(29): mysqli_connect('10.232.232.252', 'startconnect', Object(SensitiveParameterValue), 'startdb')
+#1 C:\xampp\www\starttool\dashbord\startcount.php(4): include_once('C:\\xampp\\www\\st...')
+#2 {main}
+  thrown in C:\xampp\www\starttool\dashbord\config.php on line 29
+[29-Jul-2024 05:23:22 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond in C:\xampp\www\starttool\dashbord\config.php:29
+Stack trace:
+#0 C:\xampp\www\starttool\dashbord\config.php(29): mysqli_connect('10.232.232.252', 'startconnect', Object(SensitiveParameterValue), 'startdb')
+#1 C:\xampp\www\starttool\dashbord\startcount.php(4): include_once('C:\\xampp\\www\\st...')
+#2 {main}
+  thrown in C:\xampp\www\starttool\dashbord\config.php on line 29
+[06-Jan-2026 15:36:49 Asia/Kolkata] Unknown column 'execution_date' in 'field list'
+[06-Jan-2026 15:36:49 Asia/Kolkata] Unknown column 'created_date' in 'field list'
+[06-Jan-2026 15:36:53 Asia/Kolkata] Unknown column 'created_date' in 'field list'
+[06-Jan-2026 15:36:53 Asia/Kolkata] Unknown column 'execution_date' in 'field list'
+[06-Jan-2026 15:38:18 Asia/Kolkata] Unknown column 'execution_date' in 'field list'
+[06-Jan-2026 15:38:18 Asia/Kolkata] Unknown column 'created_date' in 'field list'
+[06-Jan-2026 16:01:06 Asia/Kolkata] Unknown column 'execution_date' in 'field list'
+[06-Jan-2026 16:01:06 Asia/Kolkata] Unknown column 'created_date' in 'field list'
+[06-Jan-2026 16:08:18 Asia/Kolkata] Unknown column 'created_date' in 'field list'
+[06-Jan-2026 16:13:10 Asia/Kolkata] Unknown column 'created_date' in 'field list'

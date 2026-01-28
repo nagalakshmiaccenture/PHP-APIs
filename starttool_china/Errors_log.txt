@@ -1,0 +1,220 @@
+[23-Nov-2022 12:55:50 Europe/Berlin] PHP Warning:  Undefined variable $arr in C:\xampp\www\starttool_china\starthits.php on line 33
+[23-Nov-2022 12:55:50 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\www\starttool_china\starthits.php on line 33
+[23-Nov-2022 12:55:50 Europe/Berlin] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_china\starthits.php on line 33
+[23-Nov-2022 12:59:54 Europe/Berlin] PHP Warning:  Undefined variable $arr in C:\xampp\www\starttool_china\starthits.php on line 33
+[23-Nov-2022 12:59:54 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\www\starttool_china\starthits.php on line 33
+[23-Nov-2022 12:59:54 Europe/Berlin] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_china\starthits.php on line 33
+[23-Nov-2022 13:00:25 Europe/Berlin] PHP Warning:  Undefined variable $arr in C:\xampp\www\starttool_china\starthits.php on line 33
+[23-Nov-2022 13:00:25 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\www\starttool_china\starthits.php on line 33
+[23-Nov-2022 13:00:25 Europe/Berlin] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_china\starthits.php on line 33
+[23-Nov-2022 13:06:02 Europe/Berlin] PHP Warning:  Undefined variable $arr in C:\xampp\www\starttool_china\starthits.php on line 33
+[23-Nov-2022 13:06:02 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\www\starttool_china\starthits.php on line 33
+[23-Nov-2022 13:06:02 Europe/Berlin] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_china\starthits.php on line 33
+[23-Nov-2022 13:06:27 Europe/Berlin] PHP Warning:  Undefined array key 7 in C:\xampp\www\starttool_china\savelog.php on line 32
+[23-Nov-2022 13:06:27 Europe/Berlin] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_china\savelog.php on line 32
+[23-Nov-2022 13:08:05 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_china\incident.php on line 28
+[23-Nov-2022 13:08:05 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\www\starttool_china\incident.php on line 28
+[23-Nov-2022 13:08:05 Europe/Berlin] PHP Warning:  Undefined array key 7 in C:\xampp\www\starttool_china\incident.php on line 37
+[23-Nov-2022 13:08:05 Europe/Berlin] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_china\incident.php on line 37
+[23-Nov-2022 13:09:57 Europe/Berlin] PHP Warning:  Undefined array key 7 in C:\xampp\www\starttool_china\savefeedback.php on line 39
+[23-Nov-2022 13:09:57 Europe/Berlin] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_china\savefeedback.php on line 39
+[24-Nov-2022 11:09:31 Europe/Berlin] PHP Warning:  Undefined variable $arr in C:\xampp\www\starttool_china\starthits.php on line 33
+[24-Nov-2022 11:09:31 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\www\starttool_china\starthits.php on line 33
+[24-Nov-2022 11:09:31 Europe/Berlin] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_china\starthits.php on line 33
+[24-Nov-2022 11:18:52 Europe/Berlin] PHP Warning:  Undefined variable $arr in C:\xampp\www\starttool_china\starthits.php on line 33
+[24-Nov-2022 11:18:52 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\www\starttool_china\starthits.php on line 33
+[24-Nov-2022 11:18:52 Europe/Berlin] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_china\starthits.php on line 33
+[24-Nov-2022 11:25:56 Europe/Berlin] PHP Warning:  Undefined array key 7 in C:\xampp\www\starttool_china\savelog.php on line 32
+[24-Nov-2022 11:25:56 Europe/Berlin] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_china\savelog.php on line 32
+[24-Nov-2022 11:28:09 Europe/Berlin] PHP Warning:  Undefined array key 7 in C:\xampp\www\starttool_china\savelog.php on line 32
+[24-Nov-2022 11:28:09 Europe/Berlin] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_china\savelog.php on line 32
+[24-Nov-2022 11:29:09 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_china\incident.php on line 28
+[24-Nov-2022 11:29:09 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\www\starttool_china\incident.php on line 28
+[24-Nov-2022 11:29:09 Europe/Berlin] PHP Warning:  Undefined array key 3 in C:\xampp\www\starttool_china\incident.php on line 28
+[24-Nov-2022 11:29:09 Europe/Berlin] PHP Warning:  Undefined array key 7 in C:\xampp\www\starttool_china\incident.php on line 37
+[24-Nov-2022 11:29:09 Europe/Berlin] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_china\incident.php on line 37
+[24-Nov-2022 11:29:51 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_china\incident.php on line 28
+[24-Nov-2022 11:29:51 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\www\starttool_china\incident.php on line 28
+[24-Nov-2022 11:29:51 Europe/Berlin] PHP Warning:  Undefined array key 3 in C:\xampp\www\starttool_china\incident.php on line 28
+[24-Nov-2022 11:29:51 Europe/Berlin] PHP Warning:  Undefined array key 7 in C:\xampp\www\starttool_china\incident.php on line 37
+[24-Nov-2022 11:29:51 Europe/Berlin] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_china\incident.php on line 37
+[28-Nov-2022 05:44:20 Europe/Berlin] PHP Warning:  Undefined array key 7 in C:\xampp\www\starttool_china\savelog.php on line 32
+[28-Nov-2022 05:44:20 Europe/Berlin] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_china\savelog.php on line 32
+[28-Nov-2022 13:15:02 Europe/Berlin] PHP Warning:  Undefined array key 7 in C:\xampp\www\starttool_china\savelog.php on line 32
+[28-Nov-2022 13:15:02 Europe/Berlin] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_china\savelog.php on line 32
+[29-Nov-2022 06:06:44 Europe/Berlin] PHP Warning:  Undefined array key 7 in C:\xampp\www\starttool_china\savelog.php on line 32
+[29-Nov-2022 06:06:44 Europe/Berlin] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_china\savelog.php on line 32
+[29-Nov-2022 06:10:29 Europe/Berlin] PHP Warning:  Undefined array key 7 in C:\xampp\www\starttool_china\savelog.php on line 32
+[29-Nov-2022 06:10:29 Europe/Berlin] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_china\savelog.php on line 32
+[29-Nov-2022 06:15:02 Europe/Berlin] PHP Warning:  Undefined array key 7 in C:\xampp\www\starttool_china\savelog.php on line 32
+[29-Nov-2022 06:15:02 Europe/Berlin] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_china\savelog.php on line 32
+[29-Nov-2022 06:20:05 Europe/Berlin] PHP Warning:  Undefined array key 7 in C:\xampp\www\starttool_china\savelog.php on line 32
+[29-Nov-2022 06:20:05 Europe/Berlin] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_china\savelog.php on line 32
+[29-Nov-2022 06:24:44 Europe/Berlin] PHP Warning:  Undefined array key 7 in C:\xampp\www\starttool_china\savelog.php on line 32
+[29-Nov-2022 06:24:44 Europe/Berlin] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_china\savelog.php on line 32
+[29-Nov-2022 06:46:32 Europe/Berlin] PHP Warning:  Undefined array key 7 in C:\xampp\www\starttool_china\savelog.php on line 32
+[29-Nov-2022 06:46:32 Europe/Berlin] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_china\savelog.php on line 32
+[29-Nov-2022 06:48:55 Europe/Berlin] PHP Warning:  Undefined array key 7 in C:\xampp\www\starttool_china\savelog.php on line 32
+[29-Nov-2022 06:48:55 Europe/Berlin] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_china\savelog.php on line 32
+[29-Nov-2022 08:45:57 Europe/Berlin] PHP Warning:  Undefined array key 7 in C:\xampp\www\starttool_china\savelog.php on line 32
+[29-Nov-2022 08:45:57 Europe/Berlin] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_china\savelog.php on line 32
+[29-Nov-2022 11:40:22 Europe/Berlin] PHP Warning:  Undefined array key 7 in C:\xampp\www\starttool_china\savelog.php on line 32
+[29-Nov-2022 11:40:22 Europe/Berlin] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_china\savelog.php on line 32
+[29-Nov-2022 11:41:24 Europe/Berlin] PHP Warning:  Undefined array key 7 in C:\xampp\www\starttool_china\savelog.php on line 32
+[29-Nov-2022 11:41:24 Europe/Berlin] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_china\savelog.php on line 32
+[29-Nov-2022 12:08:12 Europe/Berlin] PHP Warning:  Undefined array key 7 in C:\xampp\www\starttool_china\savelog.php on line 32
+[29-Nov-2022 12:08:12 Europe/Berlin] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_china\savelog.php on line 32
+[30-Nov-2022 05:01:41 Europe/Berlin] PHP Warning:  Undefined array key 7 in C:\xampp\www\starttool_china\savelog.php on line 32
+[30-Nov-2022 05:01:41 Europe/Berlin] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_china\savelog.php on line 32
+[30-Nov-2022 05:02:45 Europe/Berlin] PHP Warning:  Undefined array key 7 in C:\xampp\www\starttool_china\savelog.php on line 32
+[30-Nov-2022 05:02:45 Europe/Berlin] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_china\savelog.php on line 32
+[30-Nov-2022 05:03:32 Europe/Berlin] PHP Warning:  Undefined array key 7 in C:\xampp\www\starttool_china\savelog.php on line 32
+[30-Nov-2022 05:03:32 Europe/Berlin] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_china\savelog.php on line 32
+[30-Nov-2022 07:21:33 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_china\incident.php on line 28
+[30-Nov-2022 07:21:33 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\www\starttool_china\incident.php on line 28
+[30-Nov-2022 07:21:33 Europe/Berlin] PHP Warning:  Undefined array key 3 in C:\xampp\www\starttool_china\incident.php on line 28
+[30-Nov-2022 07:21:33 Europe/Berlin] PHP Warning:  Undefined array key 7 in C:\xampp\www\starttool_china\incident.php on line 37
+[30-Nov-2022 07:21:33 Europe/Berlin] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_china\incident.php on line 37
+[01-Dec-2022 06:08:18 Europe/Berlin] PHP Warning:  Undefined array key 3 in C:\xampp\www\starttool_china\savelog.php on line 32
+[01-Dec-2022 06:08:18 Europe/Berlin] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_china\savelog.php on line 32
+[01-Dec-2022 06:08:18 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\www\starttool_china\savelog.php on line 36
+[12-Dec-2022 07:10:54 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_china\incident.php on line 28
+[12-Dec-2022 07:10:54 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\www\starttool_china\incident.php on line 28
+[12-Dec-2022 07:10:54 Europe/Berlin] PHP Warning:  Undefined array key 3 in C:\xampp\www\starttool_china\incident.php on line 28
+[12-Dec-2022 07:10:54 Europe/Berlin] PHP Warning:  Undefined array key 3 in C:\xampp\www\starttool_china\incident.php on line 37
+[12-Dec-2022 07:10:54 Europe/Berlin] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_china\incident.php on line 37
+[13-Dec-2022 12:19:52 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_china\incident.php on line 28
+[13-Dec-2022 12:19:52 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\www\starttool_china\incident.php on line 28
+[13-Dec-2022 12:19:52 Europe/Berlin] PHP Warning:  Undefined array key 3 in C:\xampp\www\starttool_china\incident.php on line 28
+[13-Dec-2022 12:19:52 Europe/Berlin] PHP Warning:  Undefined array key 3 in C:\xampp\www\starttool_china\incident.php on line 37
+[13-Dec-2022 12:19:52 Europe/Berlin] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_china\incident.php on line 37
+[13-Dec-2022 12:36:09 Europe/Berlin] PHP Warning:  Undefined array key 3 in C:\xampp\www\starttool_china\incident.php on line 37
+[13-Dec-2022 12:36:09 Europe/Berlin] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_china\incident.php on line 37
+[13-Dec-2022 12:36:30 Europe/Berlin] PHP Warning:  Undefined array key 3 in C:\xampp\www\starttool_china\incident.php on line 37
+[13-Dec-2022 12:36:30 Europe/Berlin] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_china\incident.php on line 37
+[14-Dec-2022 11:58:15 Europe/Berlin] PHP Warning:  Undefined array key 3 in C:\xampp\www\starttool_china\incident.php on line 37
+[14-Dec-2022 11:58:15 Europe/Berlin] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_china\incident.php on line 37
+[06-Oct-2023 15:01:36 Europe/Berlin] PHP Warning:  Undefined array key "d1" in C:\xampp\www\starttool_china\starthits.php on line 8
+[06-Oct-2023 15:01:36 Europe/Berlin] PHP Deprecated:  base64_decode(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_china\starthits.php on line 21
+[06-Oct-2023 15:01:36 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_china\starthits.php on line 26
+[06-Oct-2023 15:01:36 Europe/Berlin] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_china\starthits.php on line 31
+[13-Feb-2024 09:44:16 Europe/Berlin] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'yes',now(), '1.5')' at line 1
+[13-Feb-2024 09:44:16 Europe/Berlin] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'yes',now(), '1.5')' at line 1
+[13-Feb-2024 09:47:16 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_china\savefeedback.php on line 27
+[13-Feb-2024 09:47:16 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_china\savefeedback.php on line 27
+[13-Feb-2024 09:47:16 Europe/Berlin] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_china\savefeedback.php on line 33
+[16-May-2024 11:56:53 Europe/Berlin] PHP Warning:  Undefined array key "d1" in C:\xampp\www\starttool_china\savelog.php on line 8
+[16-May-2024 11:56:53 Europe/Berlin] PHP Deprecated:  base64_decode(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_china\savelog.php on line 21
+[16-May-2024 11:56:53 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_china\savelog.php on line 27
+[16-May-2024 11:56:53 Europe/Berlin] PHP Warning:  Undefined array key 3 in C:\xampp\www\starttool_china\savelog.php on line 32
+[16-May-2024 11:56:53 Europe/Berlin] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_china\savelog.php on line 32
+[16-May-2024 11:56:53 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\www\starttool_china\savelog.php on line 36
+[16-May-2024 11:56:53 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_china\savelog.php on line 36
+[26-May-2024 11:59:47 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_china\savefeedback.php on line 27
+[26-May-2024 11:59:47 Europe/Berlin] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_china\savefeedback.php on line 33
+[26-Sep-2024 03:39:55 Europe/Berlin] PHP Warning:  Undefined array key "d1" in C:\xampp\www\starttool_china\starthits.php on line 8
+[26-Sep-2024 03:39:55 Europe/Berlin] PHP Deprecated:  base64_decode(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_china\starthits.php on line 21
+[26-Sep-2024 03:39:55 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_china\starthits.php on line 26
+[26-Sep-2024 03:39:55 Europe/Berlin] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_china\starthits.php on line 31
+[09-Jan-2025 18:00:04 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\www\starttool_china\resolution.php on line 37
+[09-Jan-2025 18:00:04 Europe/Berlin] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_china\resolution.php on line 37
+[09-Jan-2025 18:00:04 Europe/Berlin] Table 'starttool_china.quick_resolution' doesn't exist
+[11-Jan-2025 10:11:00 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\www\starttool_china\resolution.php on line 37
+[11-Jan-2025 10:11:00 Europe/Berlin] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_china\resolution.php on line 37
+[11-Jan-2025 10:11:00 Europe/Berlin] Table 'starttool_china.quick_resolution' doesn't exist
+[11-Jan-2025 10:18:21 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\www\starttool_china\resolution.php on line 37
+[11-Jan-2025 10:18:21 Europe/Berlin] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_china\resolution.php on line 37
+[13-Sep-2025 07:55:53 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_china\citrix_log.php on line 27
+[13-Sep-2025 07:55:53 Europe/Berlin] PHP Warning:  Undefined array key 4 in C:\xampp\www\starttool_china\citrix_log.php on line 32
+[13-Sep-2025 07:55:53 Europe/Berlin] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_china\citrix_log.php on line 32
+[13-Sep-2025 07:55:53 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_china\citrix_log.php on line 36
+[13-Sep-2025 07:55:53 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\www\starttool_china\citrix_log.php on line 36
+[13-Sep-2025 07:55:53 Europe/Berlin] PHP Warning:  Undefined array key 3 in C:\xampp\www\starttool_china\citrix_log.php on line 36
+[13-Sep-2025 07:55:54 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_china\citrix_log.php on line 27
+[13-Sep-2025 07:55:54 Europe/Berlin] PHP Warning:  Undefined array key 4 in C:\xampp\www\starttool_china\citrix_log.php on line 32
+[13-Sep-2025 07:55:54 Europe/Berlin] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_china\citrix_log.php on line 32
+[13-Sep-2025 07:55:54 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_china\citrix_log.php on line 36
+[13-Sep-2025 07:55:54 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\www\starttool_china\citrix_log.php on line 36
+[13-Sep-2025 07:55:54 Europe/Berlin] PHP Warning:  Undefined array key 3 in C:\xampp\www\starttool_china\citrix_log.php on line 36
+[13-Sep-2025 08:00:23 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_china\savelog.php on line 27
+[13-Sep-2025 08:00:23 Europe/Berlin] PHP Warning:  Undefined array key 3 in C:\xampp\www\starttool_china\savelog.php on line 32
+[13-Sep-2025 08:00:23 Europe/Berlin] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_china\savelog.php on line 32
+[13-Sep-2025 08:00:23 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\www\starttool_china\savelog.php on line 36
+[13-Sep-2025 08:00:23 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_china\savelog.php on line 36
+[13-Sep-2025 08:00:24 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_china\savelog.php on line 27
+[13-Sep-2025 08:00:24 Europe/Berlin] PHP Warning:  Undefined array key 3 in C:\xampp\www\starttool_china\savelog.php on line 32
+[13-Sep-2025 08:00:24 Europe/Berlin] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_china\savelog.php on line 32
+[13-Sep-2025 08:00:24 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\www\starttool_china\savelog.php on line 36
+[13-Sep-2025 08:00:24 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_china\savelog.php on line 36
+[13-Sep-2025 08:32:39 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_china\citrix_log.php on line 27
+[13-Sep-2025 08:32:39 Europe/Berlin] PHP Warning:  Undefined array key 4 in C:\xampp\www\starttool_china\citrix_log.php on line 32
+[13-Sep-2025 08:32:39 Europe/Berlin] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_china\citrix_log.php on line 32
+[13-Sep-2025 08:32:39 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_china\citrix_log.php on line 36
+[13-Sep-2025 08:32:39 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\www\starttool_china\citrix_log.php on line 36
+[13-Sep-2025 08:32:39 Europe/Berlin] PHP Warning:  Undefined array key 3 in C:\xampp\www\starttool_china\citrix_log.php on line 36
+[13-Sep-2025 08:32:39 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_china\citrix_log.php on line 27
+[13-Sep-2025 08:32:39 Europe/Berlin] PHP Warning:  Undefined array key 4 in C:\xampp\www\starttool_china\citrix_log.php on line 32
+[13-Sep-2025 08:32:39 Europe/Berlin] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_china\citrix_log.php on line 32
+[13-Sep-2025 08:32:39 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_china\citrix_log.php on line 36
+[13-Sep-2025 08:32:39 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\www\starttool_china\citrix_log.php on line 36
+[13-Sep-2025 08:32:39 Europe/Berlin] PHP Warning:  Undefined array key 3 in C:\xampp\www\starttool_china\citrix_log.php on line 36
+[19-Sep-2025 17:34:53 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_china\citrix_log.php on line 27
+[19-Sep-2025 17:34:53 Europe/Berlin] PHP Warning:  Undefined array key 4 in C:\xampp\www\starttool_china\citrix_log.php on line 32
+[19-Sep-2025 17:34:53 Europe/Berlin] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_china\citrix_log.php on line 32
+[19-Sep-2025 17:34:53 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_china\citrix_log.php on line 36
+[19-Sep-2025 17:34:53 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\www\starttool_china\citrix_log.php on line 36
+[19-Sep-2025 17:34:53 Europe/Berlin] PHP Warning:  Undefined array key 3 in C:\xampp\www\starttool_china\citrix_log.php on line 36
+[19-Sep-2025 17:34:54 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_china\citrix_log.php on line 27
+[19-Sep-2025 17:34:54 Europe/Berlin] PHP Warning:  Undefined array key 4 in C:\xampp\www\starttool_china\citrix_log.php on line 32
+[19-Sep-2025 17:34:54 Europe/Berlin] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_china\citrix_log.php on line 32
+[19-Sep-2025 17:34:54 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_china\citrix_log.php on line 36
+[19-Sep-2025 17:34:54 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\www\starttool_china\citrix_log.php on line 36
+[19-Sep-2025 17:34:54 Europe/Berlin] PHP Warning:  Undefined array key 3 in C:\xampp\www\starttool_china\citrix_log.php on line 36
+[19-Sep-2025 17:35:13 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_china\citrix_log.php on line 27
+[19-Sep-2025 17:35:13 Europe/Berlin] PHP Warning:  Undefined array key 4 in C:\xampp\www\starttool_china\citrix_log.php on line 32
+[19-Sep-2025 17:35:13 Europe/Berlin] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_china\citrix_log.php on line 32
+[19-Sep-2025 17:35:13 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_china\citrix_log.php on line 36
+[19-Sep-2025 17:35:13 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\www\starttool_china\citrix_log.php on line 36
+[19-Sep-2025 17:35:13 Europe/Berlin] PHP Warning:  Undefined array key 3 in C:\xampp\www\starttool_china\citrix_log.php on line 36
+[19-Sep-2025 17:35:13 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_china\citrix_log.php on line 27
+[19-Sep-2025 17:35:13 Europe/Berlin] PHP Warning:  Undefined array key 4 in C:\xampp\www\starttool_china\citrix_log.php on line 32
+[19-Sep-2025 17:35:13 Europe/Berlin] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_china\citrix_log.php on line 32
+[19-Sep-2025 17:35:13 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_china\citrix_log.php on line 36
+[19-Sep-2025 17:35:13 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\www\starttool_china\citrix_log.php on line 36
+[19-Sep-2025 17:35:13 Europe/Berlin] PHP Warning:  Undefined array key 3 in C:\xampp\www\starttool_china\citrix_log.php on line 36
+[19-Sep-2025 17:35:26 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_china\citrix_log.php on line 27
+[19-Sep-2025 17:35:26 Europe/Berlin] PHP Warning:  Undefined array key 4 in C:\xampp\www\starttool_china\citrix_log.php on line 32
+[19-Sep-2025 17:35:26 Europe/Berlin] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_china\citrix_log.php on line 32
+[19-Sep-2025 17:35:26 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_china\citrix_log.php on line 36
+[19-Sep-2025 17:35:26 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\www\starttool_china\citrix_log.php on line 36
+[19-Sep-2025 17:35:26 Europe/Berlin] PHP Warning:  Undefined array key 3 in C:\xampp\www\starttool_china\citrix_log.php on line 36
+[19-Sep-2025 17:35:27 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_china\citrix_log.php on line 27
+[19-Sep-2025 17:35:27 Europe/Berlin] PHP Warning:  Undefined array key 4 in C:\xampp\www\starttool_china\citrix_log.php on line 32
+[19-Sep-2025 17:35:27 Europe/Berlin] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_china\citrix_log.php on line 32
+[19-Sep-2025 17:35:27 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_china\citrix_log.php on line 36
+[19-Sep-2025 17:35:27 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\www\starttool_china\citrix_log.php on line 36
+[19-Sep-2025 17:35:27 Europe/Berlin] PHP Warning:  Undefined array key 3 in C:\xampp\www\starttool_china\citrix_log.php on line 36
+[19-Sep-2025 17:35:48 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_china\citrix_log.php on line 27
+[19-Sep-2025 17:35:48 Europe/Berlin] PHP Warning:  Undefined array key 4 in C:\xampp\www\starttool_china\citrix_log.php on line 32
+[19-Sep-2025 17:35:48 Europe/Berlin] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_china\citrix_log.php on line 32
+[19-Sep-2025 17:35:48 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_china\citrix_log.php on line 36
+[19-Sep-2025 17:35:48 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\www\starttool_china\citrix_log.php on line 36
+[19-Sep-2025 17:35:48 Europe/Berlin] PHP Warning:  Undefined array key 3 in C:\xampp\www\starttool_china\citrix_log.php on line 36
+[19-Sep-2025 17:35:48 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_china\citrix_log.php on line 27
+[19-Sep-2025 17:35:48 Europe/Berlin] PHP Warning:  Undefined array key 4 in C:\xampp\www\starttool_china\citrix_log.php on line 32
+[19-Sep-2025 17:35:48 Europe/Berlin] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_china\citrix_log.php on line 32
+[19-Sep-2025 17:35:48 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_china\citrix_log.php on line 36
+[19-Sep-2025 17:35:48 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\www\starttool_china\citrix_log.php on line 36
+[19-Sep-2025 17:35:48 Europe/Berlin] PHP Warning:  Undefined array key 3 in C:\xampp\www\starttool_china\citrix_log.php on line 36
+[19-Sep-2025 17:36:10 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_china\citrix_log.php on line 27
+[19-Sep-2025 17:36:10 Europe/Berlin] PHP Warning:  Undefined array key 4 in C:\xampp\www\starttool_china\citrix_log.php on line 32
+[19-Sep-2025 17:36:10 Europe/Berlin] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_china\citrix_log.php on line 32
+[19-Sep-2025 17:36:10 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_china\citrix_log.php on line 36
+[19-Sep-2025 17:36:10 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\www\starttool_china\citrix_log.php on line 36
+[19-Sep-2025 17:36:10 Europe/Berlin] PHP Warning:  Undefined array key 3 in C:\xampp\www\starttool_china\citrix_log.php on line 36
+[19-Sep-2025 17:36:10 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_china\citrix_log.php on line 27
+[19-Sep-2025 17:36:10 Europe/Berlin] PHP Warning:  Undefined array key 4 in C:\xampp\www\starttool_china\citrix_log.php on line 32
+[19-Sep-2025 17:36:10 Europe/Berlin] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_china\citrix_log.php on line 32
+[19-Sep-2025 17:36:10 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_china\citrix_log.php on line 36
+[19-Sep-2025 17:36:10 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\www\starttool_china\citrix_log.php on line 36
+[19-Sep-2025 17:36:10 Europe/Berlin] PHP Warning:  Undefined array key 3 in C:\xampp\www\starttool_china\citrix_log.php on line 36
