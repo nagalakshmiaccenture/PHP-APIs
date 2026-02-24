@@ -1,7 +1,7 @@
  <?php
 header("Access-Control-Allow-Origin: *");
 header("Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Accept");
- include_once("config.php");
+ include_once("configNew.php");
 
 if($_SERVER['REQUEST_METHOD']=='GET'){
 
@@ -23,7 +23,8 @@ $i=0;
 $posts=array();
 $month = date("m");
 $year = date("y");
-$Sql_Query="select Date(created_date) as DateOnly, count(*) as total_count from feedback where userName not in ('dinkar.mukesh.mishra','nagalakshmi.edhunury','niraj.tiwari','rajanna.v.achanta','neha.a.tripathi','shubhangi.karwatkar','mayur.bawane') and created_date>'".$year."-".$month."-01' group by DateOnly with rollup";
+$Sql_Query="select Date(CreatedDate) as DateOnly, count(*) as total_count from feedback where UserName not in ('dinkar.mukesh.mishra','nagalakshmi.edhunury','niraj.tiwari','rajanna.v.achanta','shubhangi.karwatkar','mayur.bawane','dinkar.mukesh.mishra','kapil.trivedi') and CreatedDate>'".$year."-".$month."-01' group by DateOnly with rollup";
+//$Sql_Query="select Date(created_date) as DateOnly, count(*) as total_count from feedback where userName not in ('dinkar.mukesh.mishra','nagalakshmi.edhunury','niraj.tiwari','rajanna.v.achanta','neha.a.tripathi','shubhangi.karwatkar','mayur.bawane') and created_date>'".$year."-".$month."-01' group by DateOnly with rollup";
 //$Sql_Query="select Date(created_date) as DateOnly, count(*) as total_count from feedback where userName not in ('dinkar.mukesh.mishra','nagalakshmi.edhunury','niraj.tiwari','rajanna.v.achanta','neha.a.tripathi','shubhangi.karwatkar','mayur.bawane') and created_date>'25-12-01' and created_date<'26-01-01' group by DateOnly with rollup";
 //echo "$sql";
  try {
