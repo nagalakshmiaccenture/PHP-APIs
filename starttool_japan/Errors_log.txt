@@ -1,0 +1,244 @@
+[29-Nov-2023 12:03:12 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_japan\savefeedback.php on line 27
+[29-Nov-2023 12:03:12 Europe/Berlin] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_japan\savefeedback.php on line 33
+[13-Feb-2024 09:51:27 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_japan\savefeedback.php on line 27
+[13-Feb-2024 09:51:27 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_japan\savefeedback.php on line 27
+[13-Feb-2024 09:51:27 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_japan\savefeedback.php on line 27
+[13-Feb-2024 09:51:27 Europe/Berlin] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_japan\savefeedback.php on line 33
+[06-Mar-2024 10:06:19 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_japan\savefeedback.php on line 27
+[06-Mar-2024 10:06:19 Europe/Berlin] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_japan\savefeedback.php on line 33
+[05-Apr-2024 05:06:13 Europe/Berlin] PHP Warning:  Undefined array key "d1" in C:\xampp\www\starttool_japan\starthits.php on line 8
+[05-Apr-2024 05:06:13 Europe/Berlin] PHP Deprecated:  base64_decode(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_japan\starthits.php on line 21
+[05-Apr-2024 05:06:13 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_japan\starthits.php on line 26
+[07-May-2024 09:01:46 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_japan\savefeedback.php on line 27
+[07-May-2024 09:01:46 Europe/Berlin] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_japan\savefeedback.php on line 33
+[29-Jul-2024 03:16:09 Europe/Berlin] PHP Warning:  Undefined array key "d1" in C:\xampp\www\starttool_japan\starthits.php on line 8
+[29-Jul-2024 03:16:09 Europe/Berlin] PHP Deprecated:  base64_decode(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_japan\starthits.php on line 21
+[29-Jul-2024 03:16:09 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_japan\starthits.php on line 26
+[02-Aug-2024 02:09:10 Europe/Berlin] PHP Warning:  Undefined array key "d1" in C:\xampp\www\starttool_japan\starthits.php on line 8
+[02-Aug-2024 02:09:10 Europe/Berlin] PHP Deprecated:  base64_decode(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_japan\starthits.php on line 21
+[02-Aug-2024 02:09:10 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_japan\starthits.php on line 26
+[02-Aug-2024 02:10:12 Europe/Berlin] PHP Warning:  Undefined array key "d1" in C:\xampp\www\starttool_japan\starthits.php on line 8
+[02-Aug-2024 02:10:12 Europe/Berlin] PHP Deprecated:  base64_decode(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_japan\starthits.php on line 21
+[02-Aug-2024 02:10:12 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_japan\starthits.php on line 26
+[20-Aug-2024 02:02:12 Europe/Berlin] PHP Warning:  Undefined array key "d1" in C:\xampp\www\starttool_japan\starthits.php on line 8
+[20-Aug-2024 02:02:12 Europe/Berlin] PHP Deprecated:  base64_decode(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_japan\starthits.php on line 21
+[20-Aug-2024 02:02:12 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_japan\starthits.php on line 26
+[20-Aug-2024 09:46:07 Europe/Berlin] PHP Warning:  Undefined array key "d1" in C:\xampp\www\starttool_japan\starthits.php on line 8
+[20-Aug-2024 09:46:07 Europe/Berlin] PHP Deprecated:  base64_decode(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_japan\starthits.php on line 21
+[20-Aug-2024 09:46:07 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_japan\starthits.php on line 26
+[21-Aug-2024 01:59:50 Europe/Berlin] PHP Warning:  Undefined array key "d1" in C:\xampp\www\starttool_japan\starthits.php on line 8
+[21-Aug-2024 01:59:50 Europe/Berlin] PHP Deprecated:  base64_decode(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_japan\starthits.php on line 21
+[21-Aug-2024 01:59:50 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_japan\starthits.php on line 26
+[26-Aug-2024 03:22:47 Europe/Berlin] PHP Warning:  Undefined array key "d1" in C:\xampp\www\starttool_japan\starthits.php on line 8
+[26-Aug-2024 03:22:47 Europe/Berlin] PHP Deprecated:  base64_decode(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_japan\starthits.php on line 21
+[26-Aug-2024 03:22:47 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_japan\starthits.php on line 26
+[26-Aug-2024 03:23:02 Europe/Berlin] PHP Warning:  Undefined array key "d1" in C:\xampp\www\starttool_japan\starthits.php on line 8
+[26-Aug-2024 03:23:02 Europe/Berlin] PHP Deprecated:  base64_decode(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_japan\starthits.php on line 21
+[26-Aug-2024 03:23:02 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_japan\starthits.php on line 26
+[27-Aug-2024 04:16:46 Europe/Berlin] PHP Warning:  Undefined array key "d1" in C:\xampp\www\starttool_japan\starthits.php on line 8
+[27-Aug-2024 04:16:46 Europe/Berlin] PHP Deprecated:  base64_decode(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_japan\starthits.php on line 21
+[27-Aug-2024 04:16:46 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_japan\starthits.php on line 26
+[28-Aug-2024 02:12:21 Europe/Berlin] PHP Warning:  Undefined array key "d1" in C:\xampp\www\starttool_japan\starthits.php on line 8
+[28-Aug-2024 02:12:21 Europe/Berlin] PHP Deprecated:  base64_decode(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_japan\starthits.php on line 21
+[28-Aug-2024 02:12:21 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_japan\starthits.php on line 26
+[28-Aug-2024 05:55:39 Europe/Berlin] PHP Warning:  Undefined array key "d1" in C:\xampp\www\starttool_japan\starthits.php on line 8
+[28-Aug-2024 05:55:39 Europe/Berlin] PHP Deprecated:  base64_decode(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_japan\starthits.php on line 21
+[28-Aug-2024 05:55:39 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_japan\starthits.php on line 26
+[28-Aug-2024 09:34:30 Europe/Berlin] PHP Warning:  Undefined array key "d1" in C:\xampp\www\starttool_japan\starthits.php on line 8
+[28-Aug-2024 09:34:30 Europe/Berlin] PHP Deprecated:  base64_decode(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_japan\starthits.php on line 21
+[28-Aug-2024 09:34:30 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_japan\starthits.php on line 26
+[28-Aug-2024 10:21:33 Europe/Berlin] PHP Warning:  Undefined array key "d1" in C:\xampp\www\starttool_japan\starthits.php on line 8
+[28-Aug-2024 10:21:33 Europe/Berlin] PHP Deprecated:  base64_decode(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_japan\starthits.php on line 21
+[28-Aug-2024 10:21:33 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_japan\starthits.php on line 26
+[29-Aug-2024 03:09:34 Europe/Berlin] PHP Warning:  Undefined array key "d1" in C:\xampp\www\starttool_japan\starthits.php on line 8
+[29-Aug-2024 03:09:34 Europe/Berlin] PHP Deprecated:  base64_decode(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_japan\starthits.php on line 21
+[29-Aug-2024 03:09:34 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_japan\starthits.php on line 26
+[29-Aug-2024 03:09:47 Europe/Berlin] PHP Warning:  Undefined array key "d1" in C:\xampp\www\starttool_japan\starthits.php on line 8
+[29-Aug-2024 03:09:47 Europe/Berlin] PHP Deprecated:  base64_decode(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_japan\starthits.php on line 21
+[29-Aug-2024 03:09:47 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_japan\starthits.php on line 26
+[30-Aug-2024 09:48:26 Europe/Berlin] PHP Warning:  Undefined array key "d1" in C:\xampp\www\starttool_japan\starthits.php on line 8
+[30-Aug-2024 09:48:26 Europe/Berlin] PHP Deprecated:  base64_decode(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_japan\starthits.php on line 21
+[30-Aug-2024 09:48:26 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_japan\starthits.php on line 26
+[02-Sep-2024 08:13:28 Europe/Berlin] PHP Warning:  Undefined array key "d1" in C:\xampp\www\starttool_japan\starthits.php on line 8
+[02-Sep-2024 08:13:28 Europe/Berlin] PHP Deprecated:  base64_decode(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_japan\starthits.php on line 21
+[02-Sep-2024 08:13:28 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_japan\starthits.php on line 26
+[04-Sep-2024 03:56:01 Europe/Berlin] PHP Warning:  Undefined array key "d1" in C:\xampp\www\starttool_japan\starthits.php on line 8
+[04-Sep-2024 03:56:01 Europe/Berlin] PHP Deprecated:  base64_decode(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_japan\starthits.php on line 21
+[04-Sep-2024 03:56:01 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_japan\starthits.php on line 26
+[04-Sep-2024 03:56:40 Europe/Berlin] PHP Warning:  Undefined array key "d1" in C:\xampp\www\starttool_japan\starthits.php on line 8
+[04-Sep-2024 03:56:40 Europe/Berlin] PHP Deprecated:  base64_decode(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_japan\starthits.php on line 21
+[04-Sep-2024 03:56:40 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_japan\starthits.php on line 26
+[05-Sep-2024 12:57:46 Europe/Berlin] PHP Warning:  Undefined array key "d1" in C:\xampp\www\starttool_japan\starthits.php on line 8
+[05-Sep-2024 12:57:46 Europe/Berlin] PHP Deprecated:  base64_decode(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_japan\starthits.php on line 21
+[05-Sep-2024 12:57:46 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_japan\starthits.php on line 26
+[10-Sep-2024 02:08:32 Europe/Berlin] PHP Warning:  Undefined array key "d1" in C:\xampp\www\starttool_japan\starthits.php on line 8
+[10-Sep-2024 02:08:32 Europe/Berlin] PHP Deprecated:  base64_decode(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_japan\starthits.php on line 21
+[10-Sep-2024 02:08:32 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_japan\starthits.php on line 26
+[10-Sep-2024 02:09:04 Europe/Berlin] PHP Warning:  Undefined array key "d1" in C:\xampp\www\starttool_japan\starthits.php on line 8
+[10-Sep-2024 02:09:04 Europe/Berlin] PHP Deprecated:  base64_decode(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_japan\starthits.php on line 21
+[10-Sep-2024 02:09:04 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_japan\starthits.php on line 26
+[10-Sep-2024 02:43:22 Europe/Berlin] PHP Warning:  Undefined array key "d1" in C:\xampp\www\starttool_japan\starthits.php on line 8
+[10-Sep-2024 02:43:22 Europe/Berlin] PHP Deprecated:  base64_decode(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_japan\starthits.php on line 21
+[10-Sep-2024 02:43:22 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_japan\starthits.php on line 26
+[18-Sep-2024 02:50:21 Europe/Berlin] PHP Warning:  Undefined array key "d1" in C:\xampp\www\starttool_japan\starthits.php on line 8
+[18-Sep-2024 02:50:21 Europe/Berlin] PHP Deprecated:  base64_decode(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_japan\starthits.php on line 21
+[18-Sep-2024 02:50:21 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_japan\starthits.php on line 26
+[27-Sep-2024 04:10:35 Europe/Berlin] PHP Warning:  Undefined array key "d1" in C:\xampp\www\starttool_japan\starthits.php on line 8
+[27-Sep-2024 04:10:35 Europe/Berlin] PHP Deprecated:  base64_decode(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_japan\starthits.php on line 21
+[27-Sep-2024 04:10:35 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_japan\starthits.php on line 26
+[27-Sep-2024 04:14:42 Europe/Berlin] PHP Warning:  Undefined array key "d1" in C:\xampp\www\starttool_japan\starthits.php on line 8
+[27-Sep-2024 04:14:42 Europe/Berlin] PHP Deprecated:  base64_decode(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_japan\starthits.php on line 21
+[27-Sep-2024 04:14:42 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_japan\starthits.php on line 26
+[27-Sep-2024 04:15:00 Europe/Berlin] PHP Warning:  Undefined array key "d1" in C:\xampp\www\starttool_japan\starthits.php on line 8
+[27-Sep-2024 04:15:00 Europe/Berlin] PHP Deprecated:  base64_decode(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_japan\starthits.php on line 21
+[27-Sep-2024 04:15:00 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_japan\starthits.php on line 26
+[08-Oct-2024 05:02:44 Europe/Berlin] PHP Warning:  Undefined array key "d1" in C:\xampp\www\starttool_japan\starthits.php on line 8
+[08-Oct-2024 05:02:44 Europe/Berlin] PHP Deprecated:  base64_decode(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_japan\starthits.php on line 21
+[08-Oct-2024 05:02:44 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_japan\starthits.php on line 26
+[08-Oct-2024 05:03:15 Europe/Berlin] PHP Warning:  Undefined array key "d1" in C:\xampp\www\starttool_japan\starthits.php on line 8
+[08-Oct-2024 05:03:15 Europe/Berlin] PHP Deprecated:  base64_decode(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_japan\starthits.php on line 21
+[08-Oct-2024 05:03:15 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_japan\starthits.php on line 26
+[09-Oct-2024 06:59:17 Europe/Berlin] PHP Warning:  Undefined array key "d1" in C:\xampp\www\starttool_japan\starthits.php on line 8
+[09-Oct-2024 06:59:17 Europe/Berlin] PHP Deprecated:  base64_decode(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_japan\starthits.php on line 21
+[09-Oct-2024 06:59:17 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_japan\starthits.php on line 26
+[11-Oct-2024 02:05:00 Europe/Berlin] PHP Warning:  Undefined array key "d1" in C:\xampp\www\starttool_japan\starthits.php on line 8
+[11-Oct-2024 02:05:00 Europe/Berlin] PHP Deprecated:  base64_decode(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_japan\starthits.php on line 21
+[11-Oct-2024 02:05:00 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_japan\starthits.php on line 26
+[11-Oct-2024 02:05:22 Europe/Berlin] PHP Warning:  Undefined array key "d1" in C:\xampp\www\starttool_japan\starthits.php on line 8
+[11-Oct-2024 02:05:22 Europe/Berlin] PHP Deprecated:  base64_decode(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_japan\starthits.php on line 21
+[11-Oct-2024 02:05:22 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_japan\starthits.php on line 26
+[11-Oct-2024 02:07:33 Europe/Berlin] PHP Warning:  Undefined array key "d1" in C:\xampp\www\starttool_japan\starthits.php on line 8
+[11-Oct-2024 02:07:33 Europe/Berlin] PHP Deprecated:  base64_decode(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_japan\starthits.php on line 21
+[11-Oct-2024 02:07:33 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_japan\starthits.php on line 26
+[16-Oct-2024 10:48:29 Europe/Berlin] PHP Warning:  Undefined array key "d1" in C:\xampp\www\starttool_japan\starthits.php on line 8
+[16-Oct-2024 10:48:29 Europe/Berlin] PHP Deprecated:  base64_decode(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_japan\starthits.php on line 21
+[16-Oct-2024 10:48:29 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_japan\starthits.php on line 26
+[16-Oct-2024 10:54:09 Europe/Berlin] PHP Warning:  Undefined array key "d1" in C:\xampp\www\starttool_japan\starthits.php on line 8
+[16-Oct-2024 10:54:09 Europe/Berlin] PHP Deprecated:  base64_decode(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_japan\starthits.php on line 21
+[16-Oct-2024 10:54:09 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_japan\starthits.php on line 26
+[22-Oct-2024 12:29:56 Europe/Berlin] PHP Warning:  Undefined array key "d1" in C:\xampp\www\starttool_japan\starthits.php on line 8
+[22-Oct-2024 12:29:56 Europe/Berlin] PHP Deprecated:  base64_decode(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_japan\starthits.php on line 21
+[22-Oct-2024 12:29:56 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_japan\starthits.php on line 26
+[24-Oct-2024 02:10:55 Europe/Berlin] PHP Warning:  Undefined array key "d1" in C:\xampp\www\starttool_japan\starthits.php on line 8
+[24-Oct-2024 02:10:55 Europe/Berlin] PHP Deprecated:  base64_decode(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_japan\starthits.php on line 21
+[24-Oct-2024 02:10:55 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_japan\starthits.php on line 26
+[28-Oct-2024 02:58:50 Europe/Berlin] PHP Warning:  Undefined array key "d1" in C:\xampp\www\starttool_japan\starthits.php on line 8
+[28-Oct-2024 02:58:50 Europe/Berlin] PHP Deprecated:  base64_decode(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_japan\starthits.php on line 21
+[28-Oct-2024 02:58:50 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_japan\starthits.php on line 26
+[30-Oct-2024 06:19:40 Europe/Berlin] PHP Warning:  Undefined array key "d1" in C:\xampp\www\starttool_japan\starthits.php on line 8
+[30-Oct-2024 06:19:40 Europe/Berlin] PHP Deprecated:  base64_decode(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_japan\starthits.php on line 21
+[30-Oct-2024 06:19:40 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_japan\starthits.php on line 26
+[11-Nov-2024 09:10:08 Europe/Berlin] PHP Warning:  Undefined array key "d1" in C:\xampp\www\starttool_japan\starthits.php on line 8
+[11-Nov-2024 09:10:08 Europe/Berlin] PHP Deprecated:  base64_decode(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_japan\starthits.php on line 21
+[11-Nov-2024 09:10:08 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_japan\starthits.php on line 26
+[20-Nov-2024 01:15:45 Europe/Berlin] PHP Warning:  Undefined array key "d1" in C:\xampp\www\starttool_japan\starthits.php on line 8
+[20-Nov-2024 01:15:45 Europe/Berlin] PHP Deprecated:  base64_decode(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_japan\starthits.php on line 21
+[20-Nov-2024 01:15:45 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_japan\starthits.php on line 26
+[10-Dec-2024 03:24:09 Europe/Berlin] PHP Warning:  Undefined array key "d1" in C:\xampp\www\starttool_japan\starthits.php on line 8
+[10-Dec-2024 03:24:09 Europe/Berlin] PHP Deprecated:  base64_decode(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_japan\starthits.php on line 21
+[10-Dec-2024 03:24:09 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_japan\starthits.php on line 26
+[10-Dec-2024 03:25:06 Europe/Berlin] PHP Warning:  Undefined array key "d1" in C:\xampp\www\starttool_japan\starthits.php on line 8
+[10-Dec-2024 03:25:06 Europe/Berlin] PHP Deprecated:  base64_decode(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_japan\starthits.php on line 21
+[10-Dec-2024 03:25:06 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_japan\starthits.php on line 26
+[23-Dec-2024 02:30:14 Europe/Berlin] PHP Warning:  Undefined array key "d1" in C:\xampp\www\starttool_japan\starthits.php on line 8
+[23-Dec-2024 02:30:14 Europe/Berlin] PHP Deprecated:  base64_decode(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_japan\starthits.php on line 21
+[23-Dec-2024 02:30:14 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_japan\starthits.php on line 26
+[11-Jan-2025 12:25:08 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\www\starttool_japan\resolution.php on line 37
+[11-Jan-2025 12:25:08 Europe/Berlin] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_japan\resolution.php on line 37
+[16-Jan-2025 05:00:14 Europe/Berlin] PHP Warning:  Undefined array key "d1" in C:\xampp\www\starttool_japan\starthits.php on line 8
+[16-Jan-2025 05:00:14 Europe/Berlin] PHP Deprecated:  base64_decode(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_japan\starthits.php on line 21
+[16-Jan-2025 05:00:14 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_japan\starthits.php on line 26
+[17-Jan-2025 12:21:51 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\www\starttool_japan\resolution.php on line 37
+[17-Jan-2025 12:21:51 Europe/Berlin] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_japan\resolution.php on line 37
+[10-Mar-2025 07:38:09 Europe/Berlin] PHP Warning:  Undefined array key "d1" in C:\xampp\www\starttool_japan\starthits.php on line 8
+[10-Mar-2025 07:38:09 Europe/Berlin] PHP Deprecated:  base64_decode(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_japan\starthits.php on line 21
+[10-Mar-2025 07:38:09 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_japan\starthits.php on line 26
+[04-Apr-2025 04:50:16 Europe/Berlin] PHP Warning:  Undefined array key "d1" in C:\xampp\www\starttool_japan\savelog.php on line 8
+[04-Apr-2025 04:50:16 Europe/Berlin] PHP Deprecated:  base64_decode(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_japan\savelog.php on line 21
+[04-Apr-2025 04:50:16 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_japan\savelog.php on line 27
+[04-Apr-2025 04:50:16 Europe/Berlin] PHP Warning:  Undefined array key 3 in C:\xampp\www\starttool_japan\savelog.php on line 32
+[04-Apr-2025 04:50:16 Europe/Berlin] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_japan\savelog.php on line 32
+[04-Apr-2025 04:50:16 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\www\starttool_japan\savelog.php on line 36
+[04-Apr-2025 04:50:16 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_japan\savelog.php on line 36
+[07-Apr-2025 10:02:44 Europe/Berlin] PHP Warning:  Undefined array key "d1" in C:\xampp\www\starttool_japan\starthits.php on line 8
+[07-Apr-2025 10:02:44 Europe/Berlin] PHP Deprecated:  base64_decode(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_japan\starthits.php on line 21
+[07-Apr-2025 10:02:44 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_japan\starthits.php on line 26
+[25-Apr-2025 02:22:59 Europe/Berlin] PHP Warning:  Undefined array key "d1" in C:\xampp\www\starttool_japan\starthits.php on line 8
+[25-Apr-2025 02:22:59 Europe/Berlin] PHP Deprecated:  base64_decode(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_japan\starthits.php on line 21
+[25-Apr-2025 02:22:59 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_japan\starthits.php on line 26
+[25-Apr-2025 06:38:43 Europe/Berlin] PHP Warning:  Undefined array key "d1" in C:\xampp\www\starttool_japan\starthits.php on line 8
+[25-Apr-2025 06:38:43 Europe/Berlin] PHP Deprecated:  base64_decode(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_japan\starthits.php on line 21
+[25-Apr-2025 06:38:43 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_japan\starthits.php on line 26
+[25-Apr-2025 10:37:32 Europe/Berlin] PHP Warning:  Undefined array key "d1" in C:\xampp\www\starttool_japan\starthits.php on line 8
+[25-Apr-2025 10:37:32 Europe/Berlin] PHP Deprecated:  base64_decode(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_japan\starthits.php on line 21
+[25-Apr-2025 10:37:32 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_japan\starthits.php on line 26
+[25-Apr-2025 10:38:06 Europe/Berlin] PHP Warning:  Undefined array key "d1" in C:\xampp\www\starttool_japan\starthits.php on line 8
+[25-Apr-2025 10:38:06 Europe/Berlin] PHP Deprecated:  base64_decode(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_japan\starthits.php on line 21
+[25-Apr-2025 10:38:06 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_japan\starthits.php on line 26
+[22-May-2025 05:46:19 Europe/Berlin] PHP Warning:  Undefined array key "d1" in C:\xampp\www\starttool_japan\starthits.php on line 8
+[22-May-2025 05:46:19 Europe/Berlin] PHP Deprecated:  base64_decode(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_japan\starthits.php on line 21
+[22-May-2025 05:46:19 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_japan\starthits.php on line 26
+[17-Jun-2025 06:11:04 Europe/Berlin] PHP Warning:  Undefined array key "d1" in C:\xampp\www\starttool_japan\starthits.php on line 8
+[17-Jun-2025 06:11:04 Europe/Berlin] PHP Deprecated:  base64_decode(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_japan\starthits.php on line 21
+[17-Jun-2025 06:11:04 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_japan\starthits.php on line 26
+[17-Jun-2025 06:11:33 Europe/Berlin] PHP Warning:  Undefined array key "d1" in C:\xampp\www\starttool_japan\starthits.php on line 8
+[17-Jun-2025 06:11:33 Europe/Berlin] PHP Deprecated:  base64_decode(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_japan\starthits.php on line 21
+[17-Jun-2025 06:11:33 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_japan\starthits.php on line 26
+[17-Jun-2025 06:39:00 Europe/Berlin] PHP Warning:  Undefined array key "d1" in C:\xampp\www\starttool_japan\starthits.php on line 8
+[17-Jun-2025 06:39:00 Europe/Berlin] PHP Deprecated:  base64_decode(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_japan\starthits.php on line 21
+[17-Jun-2025 06:39:00 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_japan\starthits.php on line 26
+[17-Jun-2025 06:39:32 Europe/Berlin] PHP Warning:  Undefined array key "d1" in C:\xampp\www\starttool_japan\starthits.php on line 8
+[17-Jun-2025 06:39:32 Europe/Berlin] PHP Deprecated:  base64_decode(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_japan\starthits.php on line 21
+[17-Jun-2025 06:39:32 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_japan\starthits.php on line 26
+[26-Aug-2025 07:16:06 Europe/Berlin] PHP Warning:  Undefined array key "d1" in C:\xampp\www\starttool_japan\starthits.php on line 8
+[26-Aug-2025 07:16:06 Europe/Berlin] PHP Deprecated:  base64_decode(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_japan\starthits.php on line 21
+[26-Aug-2025 07:16:06 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_japan\starthits.php on line 26
+[30-Sep-2025 11:21:54 Europe/Berlin] PHP Warning:  Undefined array key "d1" in C:\xampp\www\starttool_japan\starthits.php on line 8
+[30-Sep-2025 11:21:54 Europe/Berlin] PHP Deprecated:  base64_decode(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_japan\starthits.php on line 21
+[30-Sep-2025 11:21:54 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_japan\starthits.php on line 26
+[01-Oct-2025 10:23:25 Europe/Berlin] PHP Warning:  Undefined array key "d1" in C:\xampp\www\starttool_japan\starthits.php on line 8
+[01-Oct-2025 10:23:25 Europe/Berlin] PHP Deprecated:  base64_decode(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_japan\starthits.php on line 21
+[01-Oct-2025 10:23:25 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_japan\starthits.php on line 26
+[31-Oct-2025 12:40:55 Europe/Berlin] PHP Warning:  Undefined array key "d1" in C:\xampp\www\starttool_japan\starthits.php on line 8
+[31-Oct-2025 12:40:55 Europe/Berlin] PHP Deprecated:  base64_decode(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\www\starttool_japan\starthits.php on line 21
+[31-Oct-2025 12:40:55 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\www\starttool_japan\starthits.php on line 26
+[12-Nov-2025 08:25:24 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\xampp\www\starttool_japan\config.php:29
+Stack trace:
+#0 C:\xampp\www\starttool_japan\starthits.php(4): include_once()
+#1 {main}
+  thrown in C:\xampp\www\starttool_japan\config.php on line 29
+[12-Nov-2025 08:25:27 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\xampp\www\starttool_japan\config.php:29
+Stack trace:
+#0 C:\xampp\www\starttool_japan\getcat.php(4): include_once()
+#1 {main}
+  thrown in C:\xampp\www\starttool_japan\config.php on line 29
+[12-Nov-2025 09:24:46 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\xampp\www\starttool_japan\config.php:29
+Stack trace:
+#0 C:\xampp\www\starttool_japan\starthits.php(4): include_once()
+#1 {main}
+  thrown in C:\xampp\www\starttool_japan\config.php on line 29
+[12-Nov-2025 09:24:52 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\xampp\www\starttool_japan\config.php:29
+Stack trace:
+#0 C:\xampp\www\starttool_japan\getcat.php(4): include_once()
+#1 {main}
+  thrown in C:\xampp\www\starttool_japan\config.php on line 29
+[12-Nov-2025 09:25:34 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\xampp\www\starttool_japan\config.php:29
+Stack trace:
+#0 C:\xampp\www\starttool_japan\starthits.php(4): include_once()
+#1 {main}
+  thrown in C:\xampp\www\starttool_japan\config.php on line 29
+[12-Nov-2025 09:25:35 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\xampp\www\starttool_japan\config.php:29
+Stack trace:
+#0 C:\xampp\www\starttool_japan\getcat.php(4): include_once()
+#1 {main}
+  thrown in C:\xampp\www\starttool_japan\config.php on line 29
+[12-Nov-2025 09:26:56 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\xampp\www\starttool_japan\config.php:29
+Stack trace:
+#0 C:\xampp\www\starttool_japan\starthits.php(4): include_once()
+#1 {main}
+  thrown in C:\xampp\www\starttool_japan\config.php on line 29
+[12-Nov-2025 09:26:58 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\xampp\www\starttool_japan\config.php:29
+Stack trace:
+#0 C:\xampp\www\starttool_japan\getcat.php(4): include_once()
+#1 {main}
+  thrown in C:\xampp\www\starttool_japan\config.php on line 29
