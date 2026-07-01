@@ -55,8 +55,8 @@ $result = mysqli_query($link, $Sql_Query);
         }
 
 else{*/
-$Sql_Query = "select Date(execution_date) as DateOnly, count(*) as total_count from executionlog where userName not in ('dinkar.mukesh.mishra','nagalakshmi.edhunury','niraj.tiwari','rajanna.v.achanta','shubhangi.karwatkar','mayur.bawane','dinkar.mukesh.mishra','kapil.trivedi') and execution_date>'".$year."-".$month."-01' group by DateOnly with rollup";
-//$Sql_Query = "select Date(execution_date) as DateOnly, count(*) as total_count from executionlog where userName not in ('dinkar.mukesh.mishra','nagalakshmi.edhunury','niraj.tiwari','rajanna.v.achanta','neha.a.tripathi','shubhangi.karwatkar','mayur.bawane') and execution_date>'25-12-01' and execution_date<'26-01-01' group by DateOnly with rollup";
+//$Sql_Query = "select Date(execution_date) as DateOnly, count(*) as total_count from executionlog where userName not in ('dinkar.mukesh.mishra','nagalakshmi.edhunury','niraj.tiwari','rajanna.v.achanta','shubhangi.karwatkar','mayur.bawane','dinkar.mukesh.mishra','kapil.trivedi') and execution_date>'".$year."-".$month."-01' group by DateOnly with rollup";
+$Sql_Query = "select Date(execution_date) as DateOnly, count(*) as total_count from executionlog where userName not in ('dinkar.mukesh.mishra','nagalakshmi.edhunury','niraj.tiwari','rajanna.v.achanta','kapil.trivedi','shubhangi.karwatkar','mayur.bawane') and execution_date>'26-03-01' and execution_date<'26-04-01' group by DateOnly with rollup";
 //echo $Sql_Query;
 try {
 $result = mysqli_query($link, $Sql_Query);
