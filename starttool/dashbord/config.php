@@ -19,7 +19,7 @@ $dbpass = "Password";//Set Databse Password here
 
 $dbhost = "10.173.137.134";
 //$dbhost = "20.33.43.17";
-$dbname = "startdb";
+$dbname = "start_dynamic";
 $dbuser = "startconnect";
 $dbpass ="@CCENTURE@123#";
 
