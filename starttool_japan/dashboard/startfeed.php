@@ -23,7 +23,7 @@ $i=0;
 $posts=array();
 $month = date("m");
 $year = date("y");
-$Sql_Query="select Date(created_date) as DateOnly, count(*) as total_count from feedback where userName not in ('dinkar.mukesh.mishra','nagalakshmi.edhunury','niraj.tiwari','rajanna.v.achanta','shubhangi.karwatkar','mayur.bawane','dinkar.mukesh.mishra','kapil.trivedi') and Country='Japan' and created_date>'".$year."-".$month."-01' group by DateOnly with rollup";
+$Sql_Query="select Date(CreatedDate) as DateOnly, count(*) as total_count from feedback where userName not in ('dinkar.mukesh.mishra','nagalakshmi.edhunury','niraj.tiwari','rajanna.v.achanta','shubhangi.karwatkar','mayur.bawane','dinkar.mukesh.mishra','kapil.trivedi') and Country='Japan' and CreatedDate>'".$year."-".$month."-01' group by DateOnly with rollup";
 //$Sql_Query="select Date(created_date) as DateOnly, count(*) as total_count from feedback where userName not in ('dinkar.mukesh.mishra','nagalakshmi.edhunury','niraj.tiwari','rajanna.v.achanta','neha.a.tripathi','shubhangi.karwatkar','mayur.bawane') and created_date>'26-03-01' and created_date<'26-04-01' group by DateOnly with rollup";
 //echo "$sql";
  try {
